@@ -28,7 +28,7 @@ process_length = 450
 
 start_time = 10 # this is not so important, just a way to shift the begin time of the remapped spectrum
 
-# the range of shifts to be investigated (here, from -2 to 8 s)
+# the range of shifts to be investigated (here, from -1 to 10 s)
 extrashift_min = -1
 extrashift_max = 10
 
